@@ -1,7 +1,8 @@
 # Dadar_Box_Public
 App for Dadar's Businesses to connect with their Surrounding Residences Digitaly
-![dadarbox home](https://user-images.githubusercontent.com/76690178/154663609-4b55c8aa-50db-4b38-bafe-5283d7be9c8d.jpg)
 
-![dadarbox chat](https://user-images.githubusercontent.com/76690178/154663485-6d0f6646-258c-4fb7-8918-bfbb7fc61dc6.jpg)
+![dadarbox home-min](https://user-images.githubusercontent.com/76690178/154664064-1ab5d53f-8de3-48ad-ba65-2f1948d141c7.jpg)
 
-![dadarbox home extra](https://user-images.githubusercontent.com/76690178/154663645-e3b18859-b748-4453-99e1-53f6d8cdd24f.jpg)
+![dadarbox chat-min](https://user-images.githubusercontent.com/76690178/154664054-c1e9dc56-503e-40f9-8e22-ea05b20126c3.jpg)
+
+![dadarbox home extra-min](https://user-images.githubusercontent.com/76690178/154664154-8f9f2de9-31cd-4d75-be70-0bd79b76f842.jpg)
